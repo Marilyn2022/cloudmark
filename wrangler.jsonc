@@ -44,7 +44,7 @@
    * Environment Variables
    * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
    */
-  "vars": { "NEXT_PUBLIC_BASE_URL": "https://cloudmark.site" },
+  "vars": { "NEXT_PUBLIC_BASE_URL": "https://mk.205066.xyz" },
   /**
    * Note: Use secrets to store sensitive data.
    * https://developers.cloudflare.com/workers/configuration/secrets/
