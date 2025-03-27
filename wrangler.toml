@@ -1,0 +1,7 @@
+name = "cloudmark"
+type = "javascript"
+account_id = "7ae12ee239adde614cda0893e0083a44"
+workers_dev = true
+[kv_namespaces]
+binding = "BOOKMARKS"
+id = "1d27cb48336d4e6cb5828dbcd4e5b73f"
